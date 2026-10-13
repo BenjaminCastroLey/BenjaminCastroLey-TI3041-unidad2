@@ -1,0 +1,1 @@
+Solo se hizo uso para auto-completar lineas y no se hizo uso para consultar o crear algo en un archivo.
